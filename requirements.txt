@@ -1,0 +1,4 @@
+numpy>=1.22
+matplotlib>=3.5
+plotly>=5.0        # interactive 3D (optional: matplotlib 3D is used if missing)
+ipywidgets>=7.0    # sliders (optional)
